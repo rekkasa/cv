@@ -1,0 +1,202 @@
+---
+title: CV
+format:
+  quarto-cv-pdf:
+    pdf-engine: xelatex
+author: Αλέξανδρος Ρέκκας
+test: Βιογραφικό Σημείωμα
+# date: last-modified
+phone: 
+address: 
+email: 
+fontsize: 11pt
+# fontfamily: quattrocento # default font LaTeX package https://tug.org/FontCatalogue/about.html
+mainfont: DejaVuSans # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: rekkasa
+orcid: 0000-0002-5352-943X # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.bib
+validate-yaml: false
+csl: apa-numeric.csl
+---
+
+# Προσωπικά στοιχεία
+
+> *Όνομα*: Αλέξανδρος
+
+> *Επώνυμο*: Ρέκκας
+
+> *Όνομα πατρός*: Κωνσταντίνος
+
+> *Όνομα μητρός*: Ευγενία
+
+> *Ημερομηνία γέννησης*: 30 Σεπτεμβρίου 1991
+
+> *Τόπος γέννησης*: Θεσσαλονίκη
+
+# Εκπαίδευση
+
+*Erasmus Medical Center, Ολλανδία*, Διδακτορικό (*Συνημμένο 01*) \hfill 2017-2023
+
+> *Τίτλος διατριβής*: [Beyond the average treatment effect: Risk-based approaches to medical
+> decision making](https://pure.eur.nl/files/103693281/beyond-the-average-treatment-effect_-_652e948913b3f.pdf) (*Συνημμένο 02*)
+
+> *Επιβλέποντες καθηγητές*: Καθ. P.R. Rijnbeek, Καθ. E.W. Steyerberg, Αν. Καθ. D. van Klaveren
+
+\
+
+*KU Leuven, Βέλγιο*, M.Sc. Statistics (cum laude, *Συνημμένο 03*) \hfill 2015-2017
+
+> *Τίτλος διατριβής*: Robust model selection for generalized linear models (*Συνημμένο 04*)
+
+> *Επιβλέπων καθηγητής*: Καθ. S. Van Aelst
+
+\
+
+*Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης, Ελλάδα*, Πτυχίο Μαθηματικών (*Συνημμένο 05*) \hfill 2009-2015
+
+# Πρακτική άσκηση
+
+*P-95 Pharmacoepidemiology* \hfill 6-7/2016
+
+> *Επιβλέπουσα*: Δρ. Kaatje Bollaerts
+
+
+# Δεξιότητες
+
+> *Προγραμματισμός*: R, Python
+
+> *Ξένες γλώσσες*: Αγγλικά (C2, *Συνημμμένο 06, σελίδες 1-2*), Γερμανικά (B2, *Συνημμένο 06, σελίδες 3-4*)
+
+# Ερευνητικά προγράμματα
+
+1. [European Health Data and Evidence Network](https://www.ehden.eu/) (EHDEN
+project), 2018-2024. Συμμετοχή από 1 Δεκεμβρίου 2019 έως 30 Νοεμβρίου 2023 (*Συνημμένο 07*)
+2. [Accelarated Development of Vaccine Benefit-risk Collaboration in
+Europe](https://www.imi.europa.eu/projects-results/project-factsheets/advance)
+(ADVANCE project), 2013-2019. Συμμετοχή από 1 Ιουνίου 2016 έως 31 Ιουλίου 2016
+
+
+# Διδασκαλία
+
+1. Συμμετοχή στη διδασκαλία του μαθήματος "Advanced Analysis of Prognosis
+Studies", χειμερινό-εαρινό εξάμηνο 2018-2019, Netherlands Institute for Health
+Sciences, Erasmus MC, Rotterdam.
+
+2. Tutorial με τίτλο "Population-Level Estimation" στο πλαίσιο του 2019 OHDSI
+Symposium, North Bethesda, USA, 19 Σεπτεμβρίου 2019
+[[link](https://www.ohdsi.org/2019-tutorial-population-level-estimation/)]
+
+3. Επίβλεψη της τρίμηνης πρακτικής άσκησης του μεταπτυχιακού φοιτητή Gidius van
+   de Kamp το 2023 με αντικείμενο "Developing a R-package for performing
+   plasmode simulations using data mapped to the OMOP common data model"
+   [[link](https://healthdatascience.nl/gidius-van-de-kamp-cv)]
+
+# Δημοσιεύσεις σε διεθνή περιοδικά με σύστημα κριτών (Συνημμένο 08)
+
+::: {#refs-peer}
+:::
+
+# Διεθνή συνέδρια και συμπόσια (*Συνημμένο 09*)
+
+i. *Poster presentation*: Risk Stratified Analysis of Treatment Effect in
+Electronic Health Records. **Alexandros Rekkas**, Peter R. Rijnbeek, Jenna Reps,
+David Van Klaveren. First Annual European OHDSI Symposium, Rotterdam, The
+Netherlands, March 23rd, 2018 (*Συνημμένο 09, σελίδα 1*)
+[[link](https://www.ohdsi-europe.org/images/symposium-2018/posters/31-Alexandros-Rekkas.pdf)]
+
+ii. *Poster presentation*: Exploring Heterogeneity of Treatment Effects:
+Develompent of a New OHDSI Analytics Package and Demonstration Using the
+Gastrointestinal Bleeding Risk of Celecoxib. **Alexandros Rekkas**, Peter R.
+Rijnbeek, James Weaver, Martijn Schuemie, Jenna Reps, David Van Klaveren. 2018
+OHDSI Symposium, North Bethesda, USA, October 12th, 2018 (*Συνημμένο 09, σελιδες
+2-7*)
+[[link](https://www.ohdsi.org/wp-content/uploads/2018/10/2018-Poster-Session-FINAL-200-black-and-white-copies-double-sided-stapled.pdf)]
+
+iii. *Poster presentation*: Development of a R-package to Explore Heterogeneity of
+Treatment Effects: A Demonstration in Patients with Hypertension. **Alexandros
+Rekkas**, David van Klaveren, Peter R. Rijnbeek. Second Annual European OHDSI
+Symposium, Rotterdam, The Netherlands, March 29th, 2019 (*Συνημμένο 09, σελίδα
+8*)
+[[link](https://www.ohdsi-europe.org/images/symposium-2019/posters/24_Alexandros_Rekkas.pdf)]
+
+iv. *Poster presenation*: Assessing Heterogeneity of Hypertension Treatment
+Effects: A Risk Modeling Approach. **Alexandros Rekkas**, David van Klaveren,
+Peter R. Rijnbeek. 2019 OHDSI Symposium, North Bethesda, USA, September 16th,
+2019 (*Συνημμένο 09, σελίδες 9-17*)
+[[link](https://www.ohdsi.org/2019-us-symposium-showcase-39/)]
+
+v. *Poster presentation*: Large-scale evaluation of treatment effect
+heterogeneity in hypertension. **Alexandros Rekkas**, David van Klaveren, Peter
+R. Rijnbeek. 2020 OHDSI Global Symposium, Online Symposium, October 19th, 2020 
+(*Συνημμένο 09, σελίδες 18-21*)
+[[link](https://www.ohdsi.org/2020-global-symposium-showcase-63/)]\
+**\* ** **Recipient of 2020 Best Contribution in Open-Source Analytics Development [[link](https://www.ohdsi.org/2020-global-symposium-collaborator-showcase/)]**
+
+vi. *Poster presentation*: Treatment heterogeneity in comparative effectiveness
+of teriparatide vs bisphosphonates: multi-database cohort study, **Alexandros
+Rekkas**, Annika M. Jodicke, David van Klaveren, Daniel Prieto-Alhambra, Peter
+R. Rijnbeek. 2021 OHDSI Global Symposium, Online Symposium, September 14th, 2021
+(*Συνημμένο 09, σελίδες 22-23*)
+[[link](https://www.ohdsi.org/2021-global-symposium-showcase-95/)]
+
+vii. *Poster presentation*: Trends in the development and validation of
+patient-level prediction models using electronic health record data: a
+systematic review, Cynthia Yang, Jan A. Kors, Solomon Ioannou, Luis H. John,
+Aniek F. Markus, **Alexandros Rekkas**, Maria de Ridder, Tom Seinen, Ross D.
+Williams, Peter R. Rijnbeek. 2021 OHDSI Global Symposium, Online Symposium,
+September 14th, 2021
+(*Συνημμένο 09, σελίδες 24-27*)
+[[link](https://www.ohdsi.org/2021-global-symposium-showcase-55/)]
+
+viii. *Oral presentation*: Assessing treatment effect heterogeneity using the
+RiskStratifiedEstimation R-package, **Alexandros Rekkas**, David van Klaveren,
+Peter R. Rijnbeek, Third European OHDSI Symposium, Rotterdam, The Netherlands,
+June 24th, 2022 
+(*Συνημμένο 09, σελίδες 28-31*)
+[[link](https://www.ohdsi-europe.org/images/symposium-2022/posters/arekkas_poster_-_Alexandros_Rekkas.pdf)]
+[[video](https://www.youtube.com/watch?v=wYgk-qn-teo)]
+
+ix. *Oral presentation*: Predicting individualized treatment effects using
+baseline risk: A simulation study, **Alexandros Rekkas**, Peter R. Rijnbeek,
+David M. Kent, Ewout W. Steyerberg, David van Klaveren. 43rd Annual Conference
+of the International Society of Biostatistics, Newcastle, UK, August 21-25, 2022 \
+Σελίδες 31 και 94 στο πρόγραμμα και βιβλίο περιλήψεων (*Συνημμένο 09, σελίδες 32-34*)
+([link](https://iscb.international/wp-content/uploads/2022/08/ISCB_2022-PROGRAMME-final.pdf)).
+
+x. *Oral presentation*: Treatment heterogeneity in comparative effectiveness
+of Teriparatide versus Bisphosphonates: Multi-database cohort study, **Alexandros
+Rekkas**, Annika Joedicke, David van Klaveren, Daniel Prieto-Alhambra, Peter R.
+Rijnbeek. 38th International Conference on Pharmacoepidemiology, Copenhagen,
+Denmark, August 26-28, 2022 
+(*Συνημμένο 09, σελίδες 35-37*)
+[[link](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pds.5518)]
+
+xi. *Poster presentation*: A standardized framework for risk-based assessment of
+treatment effect heterogeneity in observational healthcare databases,
+**Alexandros Rekkas**, David van Klaveren, Patrick B. Ryan, Ewout W. Steyerberg,
+David M. Kent, Peter R. Rijnbeek. SMDM 18th Biennial European Conference,
+Berlin, Germany, May 21-23, 2023
+(*Συνημμένο 09, σελίδα 38*)\
+Poster session 2
+([link](https://www.smdmmeeting.org/meeting-program/program-overview/)). 
+
+xii. *Oral presentation*: Evaluation of treatment effect heterogeneity in the
+LEGEND-Hypertension study, **Alexandros Rekkas**, David van Klaveren, Jenna M.
+Reps, Peter R. Rijnbeek, Fourth European OHDSI Symposium, Rotterdam, The
+Netherlands, July 3rd, 2023 
+(*Συνημμένο 09, σελίδες 39-41*)
+[[link](https://www.ohdsi-europe.org/images/symposium-2023/posters/rekkas_legend_htn_hte_poster_-_Alexandros_Rekkas.pdf)] [[video](https://www.youtube.com/watch?v=wgiIHdf5P4Y)]
+
+xiii. *Poster presentation*: PlasmodeSim: R package to simulate data with known
+treatment assignment and outcome generating processes, Gidius van de Kamp,
+**Alexandros Rekkas** , Fourth European OHDSI Symposium, Rotterdam, The
+Netherlands, July 3rd, 2023 
+(*Συνημμένο 09, σελίδα 42*)
+[[link](https://www.ohdsi-europe.org/images/symposium-2023/posters/plasmode_simulation_gvk_ar_-_Alexandros_Rekkas.pdf)]
