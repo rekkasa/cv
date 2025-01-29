@@ -1,3 +1,6 @@
 _extensions
 cv.pdf
 cv_greek.pdf
+_environment
+/.quarto/
+*.pdf
