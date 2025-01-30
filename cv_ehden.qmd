@@ -10,7 +10,7 @@ email: "{{< env EMAIL >}}"
 fontsize: 11pt
 fontfamily: quattrocento
 github: rekkasa
-orcid: 0000-0002-5352-943X # orcid identifier
+orcid: 0000-0002-5352-943X
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
 # web: quarto.org
@@ -31,7 +31,8 @@ csl: apa-numeric.csl
 
 # Education
 
-*Erasmus Medical Center, Netherlands*, Ph.D. \hfill 2017-2023
+*Erasmus Medical Center* \hfill Rotterdam, Netherlands \newline
+Ph.D. Medical Informatics \hfill 2017-2023
 
 > *Thesis*: [Beyond the average treatment effect: Risk-based approaches to medical
 > decision making](https://pure.eur.nl/files/103693281/beyond-the-average-treatment-effect_-_652e948913b3f.pdf)
@@ -39,13 +40,44 @@ csl: apa-numeric.csl
 > *Supervisors*: Prof. P.R. Rijnbeek, Prof. E.W. Steyerberg, Dr. D. van Klaveren
 
 
-*KU Leuven, Belgium*, M.Sc. Statistics (cum laude) \hfill 2015-2017
+*KU Leuven* \hfill Leuven, Belgium \newline
+M.Sc. Statistics (cum laude) \hfill 2015-2017
 
 > *Thesis*: Robust model selection for generalized linear models
 
 > *Supervisor*: Prof. S. Van Aelst
 
-*Aristotle University of Thessaloniki, Greece*, B.Sc. Mathematics \hfill 2009-2015
+*Aristotle University of Thessaloniki* \hfill Thessaloniki, Greece \newline
+B.Sc. Mathematics \hfill 2009-2015
+
+# Projects
+
+*Risk stratified estimtation*
+
+> Developed and maintained the R-package *RiskStratifiedEstimation* used for carrying out risk-stratified evaluation of
+> treatment effect heterogeneity in observational databases mapped to OMOP-CDM. Visit the project at
+> [github](https://github.com/ohdsi/RiskStratifiedEstimation). The package won the 2020 Best Contribution in Open-Source
+> Analytics Development at the 2020 OHDSI Global Symposium
+> [[link](https://www.ohdsi.org/2020-global-symposium-collaborator-showcase/)].
+
+*Covid outcome prediction in the Emergency Department*
+
+> Developed an online calculator in the form of a Shiny application for the
+> [COPE prediction model](https://doi.org/10.1136/bmjopen-2021-051468). The calculator provided death and ICU admission
+> risks within 28 days of hospital admission. Visit the project at [github](https://github.com/mi-erasmusmc/COPE).
+
+*Patient-level prediction*
+
+> Contributed to the development of the R-package *PatientLevelPrediction*, part of the
+> [HADES](https://ohdsi.github.io/Hades) suite of software. The package is used extensively for carrying out prediction
+> tasks on observational databases mapped to OMOP-CDM. Visit the project at
+> [github](https://github.com/OHDSI/PatientLevelPrediction).
+
+*EHDEN MegaStudy*
+
+> As member of the Greek National Node of OHDSI, was responsible for executing the code of the EHDEN Network study on
+> drug shortages on the database of the Papageorgiou General Hospital of Thessaloniki, Greece and sharing the results
+> with collaborators. The database is mapped to OMOP-CDM.
 
 # Internship
 
@@ -123,8 +155,7 @@ Peter R. Rijnbeek. 2019 OHDSI Symposium, North Bethesda, USA, September 16th,
 5. *Poster presentation*: Large-scale evaluation of treatment effect
 heterogeneity in hypertension. **Alexandros Rekkas**, David van Klaveren, Peter
 R. Rijnbeek. 2020 OHDSI Global Symposium, Online Symposium, October 19th, 2020 
-[[link](https://www.ohdsi.org/2020-global-symposium-showcase-63/)]\
-**\* ** **Recipient of 2020 Best Contribution in Open-Source Analytics Development [[link](https://www.ohdsi.org/2020-global-symposium-collaborator-showcase/)]**
+[[link](https://www.ohdsi.org/2020-global-symposium-showcase-63/)].
 
 6. *Poster presentation*: Treatment heterogeneity in comparative effectiveness
 of teriparatide vs bisphosphonates: multi-database cohort study, **Alexandros
