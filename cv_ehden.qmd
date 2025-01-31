@@ -22,7 +22,7 @@ validate-yaml: false
 csl: apa-numeric.csl
 ---
 
-# Personal data
+# Personal information
 
 \begin{tabular}{ l l l }
 \textit{Name:} Alexandros & \textit{Father's Name:} Konstantinos & \textit{Date of Birth:} September 30th, 1991 \\
@@ -34,8 +34,7 @@ csl: apa-numeric.csl
 *Erasmus Medical Center* \hfill Rotterdam, Netherlands \newline
 Ph.D. Medical Informatics \hfill 2017-2023
 
-> *Thesis*: [Beyond the average treatment effect: Risk-based approaches to medical
-> decision making](https://pure.eur.nl/files/103693281/beyond-the-average-treatment-effect_-_652e948913b3f.pdf)
+> *Thesis*: [Beyond the average treatment effect: Risk-based approaches to medical decision making](https://pure.eur.nl/files/103693281/beyond-the-average-treatment-effect_-_652e948913b3f.pdf)
 
 > *Supervisors*: Prof. P.R. Rijnbeek, Prof. E.W. Steyerberg, Dr. D. van Klaveren
 
@@ -50,9 +49,28 @@ M.Sc. Statistics (cum laude) \hfill 2015-2017
 *Aristotle University of Thessaloniki* \hfill Thessaloniki, Greece \newline
 B.Sc. Mathematics \hfill 2009-2015
 
+# Work experience
+
+*Centre for Research and Technology Hellas* \hfill Thessaloniki, Greece \newline
+Research associate \hfill 2024-present
+
+> *Description*: As part of the [eHealth Lab](https://ehealth-lab.inab.certh.gr/) of the Institute of Applied
+> Biosciences, the OHDSI National Node for Greece, I am responsible for the execution of statistical analyses on the
+> OMOP databases. Also, I am the current core developer of the online platform of the Hellenic registry of patients with
+> home mechanical ventilation [[link](https://hmv-registry.gr/)].
+
+*P-95 Pharmacoepidemiology* \hfill Leuven, Belgium \newline
+Internship \hfill 6-7/2016
+
+> *Supervisor*: Dr. Kaatje Bollaerts
+
+> *Description*: Assisted in the derivation of analytical expressions for all validity indices used to evaluate
+> case-finding algorithms in observational databases. The aim was to derive all validity indices and the true prevalence
+> of disease from observed prevalence and any two other parameters.
+
 # Projects
 
-*Risk stratified estimtation*
+*Risk stratified estimation*
 
 > Developed and maintained the R-package *RiskStratifiedEstimation* used for carrying out risk-stratified evaluation of
 > treatment effect heterogeneity in observational databases mapped to OMOP-CDM. Visit the project at
@@ -79,20 +97,11 @@ B.Sc. Mathematics \hfill 2009-2015
 > drug shortages on the database of the Papageorgiou General Hospital of Thessaloniki, Greece and sharing the results
 > with collaborators. The database is mapped to OMOP-CDM.
 
-# Internship
-
-*P-95 Pharmacoepidemiology* \hfill 6-7/2016
-
-> *Supervisor*: Dr. Kaatje Bollaerts
-
-> *Description*: Assisted in the derivation of analytical expressions for all validity indices used to evaluate
-> case-finding algorithms in observational databases. The aim was to derive all validity indices and the true prevalence
-> of disease from observed prevalence and any two other parameters.
 
 
 # Skills
 
-> *Programming*: R, Python
+> *Programming*: R, Python, SQL
 
 > *Languages*: Greek (native speaker), English (C2), German (B2)
 
@@ -181,21 +190,21 @@ baseline risk: A simulation study, **Alexandros Rekkas**, Peter R. Rijnbeek,
 David M. Kent, Ewout W. Steyerberg, David van Klaveren. 43rd Annual Conference
 of the International Society of Biostatistics, Newcastle, UK, August 21-25, 2022 \
 Pages 31 and 94 in the book of abstracts
-([link](https://iscb.international/wp-content/uploads/2022/08/ISCB_2022-PROGRAMME-final.pdf)).
+[[link](https://iscb.international/wp-content/uploads/2022/08/ISCB_2022-PROGRAMME-final.pdf)].
 
 10. *Oral presentation*: Treatment heterogeneity in comparative effectiveness
 ofTeriparatide versus Bisphosphonates: Multi-database cohort study, **Alexandros
 Rekkas**, Annika Joedicke, David van Klaveren, Daniel Prieto-Alhambra, Peter R.
 Rijnbeek. 38th International Conference on Pharmacoepidemiology, Copenhagen,
 Denmark, August 26-28, 2022. \
-Page 57 in the ICPE 2022 Final Program ([link](https://pharmacoepi.org/pub/?id=A15839AD-B6E4-D28E-1C20-FA5A5B1D2B50))
+Page 57 in the ICPE 2022 Final Program [[link](https://pharmacoepi.org/pub/?id=A15839AD-B6E4-D28E-1C20-FA5A5B1D2B50)]
 
 11. *Poster presentation*: A standardized framework for risk-based assessment of
 treatment effect heterogeneity in observational healthcare databases,
 **Alexandros Rekkas**, David van Klaveren, Patrick B. Ryan, Ewout W. Steyerberg,
 David M. Kent, Peter R. Rijnbeek. SMDM 18th Biennial European Conference,
 Berlin, Germany, May 21-23, 2023. \
-Poster session 2 ([link](https://www.smdmmeeting.org/meeting-program/program-overview/))
+Poster session 2 [[link](https://www.smdmmeeting.org/meeting-program/program-overview/)]
 
 12. *Poster presentation*: PlasmodeSim: R package to simulate data with known
 treatment assignment and outcome generating processes, Gidius van de Kamp,
