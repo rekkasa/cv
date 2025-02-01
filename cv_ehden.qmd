@@ -59,6 +59,19 @@ Research associate \hfill 2024-present
 > OMOP databases. Also, I am the current core developer of the online platform of the Hellenic registry of patients with
 > home mechanical ventilation [[link](https://hmv-registry.gr/)].
 
+*Erasmus Medical Center* \hfill Rotterdam, Netherlands \newline
+PhD Researcher\hfill 2017-2023
+
+> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healhcare
+> data. In addition, worked on the development and validation of clinical prediction models. This resulted in the
+> publication of several scientific articles, the development of R-packages and the deployment of Shiny applications.
+
+*Leiden University Medical Center* \hfill Leiden, Netherlands \newline
+PhD Researcher\hfill 2017-2019
+
+> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healhcare
+> data. The main result of this work was the publication of a scientific literature review on the topic.
+
 *P-95 Pharmacoepidemiology* \hfill Leuven, Belgium \newline
 Internship \hfill 6-7/2016
 
