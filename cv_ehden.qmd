@@ -120,6 +120,9 @@ Internship \hfill 6-7/2016
 
 # Research programmes
 
+1. [smartHealth: European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services](https://smarthealth-edih.eu/en/homepag/).
+   Digital Europe Programme & ESPA 2021-2027. Participated from April 2024 till December 2024.
+
 1. [European Health Data and Evidence Network](https://www.ehden.eu/) (EHDEN project), 2018-2024. Participated from
    December 1st, 2019 till November 30th, 2023.
 
@@ -228,3 +231,13 @@ Netherlands, July 3rd, 2023 [[link](https://www.ohdsi-europe.org/images/symposiu
 LEGEND-Hypertension study, **Alexandros Rekkas**, David van Klaveren, Jenna M.
 Reps, Peter R. Rijnbeek, Fourth European OHDSI Symposium, Rotterdam, The
 Netherlands, July 3rd, 2023 [[link](https://www.ohdsi-europe.org/images/symposium-2023/posters/rekkas_legend_htn_hte_poster_-_Alexandros_Rekkas.pdf)] [[video](https://www.youtube.com/watch?v=wgiIHdf5P4Y)]
+
+14. *Poster presentation*: Conversion of the Papageorgiou General Hospital EHR to the OMOP Common data Model
+Grigoris Papapostolou, Achilleas Chytas, **Alexandros Rekkas**, Maria Bigaki, Demetrios Zeimpekis,
+Lampros Dermentzoglou George Tortopidis, Pantelis Natsiavas 
+[[link](https://www.ohdsi-europe.org/images/symposium-2024/Posters/natsiavas_conversion_papageorgiou_general_hospital_omop%20-%20Alexandros%20Rekkas.pdf)].
+
+15. *Poster presentation*: Real-World Data in Greece: Mapping the Papageorgiou General Hospital data to the
+OMOP Common Data Mode. Grigoris Papapostolou, Achilleas Chytas, **Alexandros Rekkas**, Maria Bigaki, Demetrios Zeimpekis,
+Lampros Dermentzoglou, George Tortopidis, Pantelis Natsiavas. 34th Medical Informatics Europe Conference
+[[link](https://convin.gr/assets/files/misc/MIE2024_PROGRAMME_fin.pdf)].
