@@ -87,7 +87,7 @@ Internship \hfill 6-7/2016
 
 > Developed and maintained the R-package *RiskStratifiedEstimation* used for carrying out risk-stratified evaluation of
 > treatment effect heterogeneity in observational databases mapped to OMOP-CDM. Visit the project at
-> [github](https://github.com/ohdsi/RiskStratifiedEstimation). The package won the 2020 Best Contribution in Open-Source
+> [GitHub](https://github.com/ohdsi/RiskStratifiedEstimation). The package won the 2020 Best Contribution in Open-Source
 > Analytics Development at the 2020 OHDSI Global Symposium
 > [[link](https://www.ohdsi.org/2020-global-symposium-collaborator-showcase/)].
 
@@ -95,14 +95,14 @@ Internship \hfill 6-7/2016
 
 > Developed an online calculator in the form of a Shiny application for the
 > [COPE prediction model](https://doi.org/10.1136/bmjopen-2021-051468). The calculator provided death and ICU admission
-> risks within 28 days of hospital admission. Visit the project at [github](https://github.com/mi-erasmusmc/COPE).
+> risks within 28 days of hospital admission. Visit the project at [GitHub](https://github.com/mi-erasmusmc/COPE).
 
 *Patient-level prediction*
 
 > Contributed to the development of the R-package *PatientLevelPrediction*, part of the
 > [HADES](https://ohdsi.github.io/Hades) suite of software. The package is used extensively for carrying out prediction
 > tasks on observational databases mapped to OMOP-CDM. Visit the project at
-> [github](https://github.com/OHDSI/PatientLevelPrediction).
+> [GitHub](https://github.com/OHDSI/PatientLevelPrediction).
 
 *EHDEN MegaStudy*
 
@@ -120,34 +120,45 @@ Internship \hfill 6-7/2016
 
 # Research programmes
 
-1. [smartHealth: European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services](https://smarthealth-edih.eu/en/homepag/).
-   Digital Europe Programme & ESPA 2021-2027. Participated from April 2024 till December 2024.
+1. Synthetic data generation framework for integrated validation of use cases
+   and AI healthcare applications.
+   ([SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia):
+   IHI Innovative Health Initiative project), 2024-2029, Participation Januuary
+   2025 --- present.
 
-1. [European Health Data and Evidence Network](https://www.ehden.eu/) (EHDEN project), 2018-2024. Participated from
+2. European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services.
+   ([smartHealth](https://smarthealth-edih.eu/en/homepag/): Digital Europe Programme & ESPA 2021-2027. Participated
+   April 2024 till December 2024.
+
+3. European Health Data and Evidence Network ([EHDEN](https://www.ehden.eu/) project), 2018-2024. Participated from
    December 1st, 2019 till November 30th, 2023.
 
-2. [Accelarated Development of Vaccine Benefit-risk Collaboration in
-   Europe](https://www.imi.europa.eu/projects-results/project-factsheets/advance) (ADVANCE project), 2013-2019.
-   Participation June 1st till July 31st, 2016.
+4. Accelarated Development of Vaccine Benefit-risk Collaboration in Europe
+   ([ADVANCE](https://www.imi.europa.eu/projects-results/project-factsheets/advance) project), 2013-2019. Participation
+   June 1st till July 31st, 2016.
 
 
 # Teaching
 
-1. Teaching assistance for the course "Advanced Analysis of Prognosis Studies", Winter-Spring 2018-2019, Netherlands
-   Institute for Health Sciences, Erasmus MC, Rotterdam.
+1. Tutor at the 2024 Training School on "Impact of Meta-analyses on Clinical Practice" organised by The European Network
+   on Osteoarthritis [[link](https://netwoark.eu/event/training-school-impact-of-meta-analyses-on-clinical-practice/)].
 
-2. Tutorial with title "Population-Level Estimation" at the 2019 OHDSI Symposium, North Bethesda, USA, September 19th,
-   2019
+2. Invited speaker at the 2024 Summer School of the M.Sc. programme in Biomedical Engineering of the Aristotle
+   University of Thessaloniki. Title of the course was "Machine learning applications using OMOP-CDM"
+   [[link](https://bme.web.auth.gr/en/summer-school/summer-school-2024/)].
 
 3. Supervised the three-month internship of master student Gidius van de Kamp in 2023. The internship aimed at
    developing a R-package for performing plasmode simulations using data mapped to the OMOP common data model. This
    resulted in poster presentation 12 below.
 
-4. Invited speaker at the 2024 Summer School of the M.Sc. programme in Biomedical Engineering of the Aristotle
-   University of Thessaloniki. Title of the course was "Machine learning applications using OMOP-CDM"
+4. Tutorial with title "Population-Level Estimation" at the 2019 OHDSI Symposium, North Bethesda, USA, September 19th,
+   2019 [[link](https://www.ohdsi.org/ohdsi-news-updates/2019-symposium-tutorials/)].
 
-5. Tutor at the 2024 Training School on "Impact of Meta-analyses on Clinical Practice" organised by The European Network
-   on Osteoarthritis.
+5. Teaching assistance for the course "Advanced Analysis of Prognosis Studies", Winter-Spring 2018-2019, Netherlands
+   Institute for Health Sciences, Erasmus MC, Rotterdam.
+
+
+
 
 # Publications
 
