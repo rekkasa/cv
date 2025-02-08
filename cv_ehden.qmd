@@ -62,14 +62,14 @@ Research associate \hfill 2024-present
 *Erasmus Medical Center* \hfill Rotterdam, Netherlands \newline
 PhD Researcher\hfill 2017-2023
 
-> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healhcare
+> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healthcare
 > data. In addition, worked on the development and validation of clinical prediction models. This resulted in the
 > publication of several scientific articles, the development of R-packages and the deployment of Shiny applications.
 
 *Leiden University Medical Center* \hfill Leiden, Netherlands \newline
 PhD Researcher\hfill 2017-2019
 
-> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healhcare
+> *Description*: Carried out PhD research on the evaluation of treatment effect heterogeneity in observational healthcare
 > data. The main result of this work was the publication of a scientific literature review on the topic.
 
 *P-95 Pharmacoepidemiology* \hfill Leuven, Belgium \newline
@@ -121,13 +121,13 @@ Internship \hfill 6-7/2016
 # Research programmes
 
 1. Synthetic data generation framework for integrated validation of use cases
-   and AI healthcare applications.
-   ([SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia):
-   IHI Innovative Health Initiative project), 2024-2029, Participation Januuary
+   and AI healthcare applications
+   ([SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia) project).
+   IHI Innovative Health Initiative project, 2024-2029, Participation January
    2025 --- present.
 
-2. European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services.
-   ([smartHealth](https://smarthealth-edih.eu/en/homepag/): Digital Europe Programme & ESPA 2021-2027. Participated
+2. European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services
+   ([smartHealth](https://smarthealth-edih.eu/en/homepag/) project). Digital Europe Programme & ESPA 2021-2027. Participated
    April 2024 till December 2024.
 
 3. European Health Data and Evidence Network ([EHDEN](https://www.ehden.eu/) project), 2018-2024. Participated from
