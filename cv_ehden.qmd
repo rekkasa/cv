@@ -97,6 +97,11 @@ Internship \hfill 6-7/2016
 > [COPE prediction model](https://doi.org/10.1136/bmjopen-2021-051468). The calculator provided death and ICU admission
 > risks within 28 days of hospital admission. Visit the project at [GitHub](https://github.com/mi-erasmusmc/COPE).
 
+*Individualized treatment effect estimation*
+
+> Carried out an extensive simulation comparing risk-based methods for the prediction of individualized treatment
+> effects using real-world data. Visit the project at [GitHub](https://github.com/mi-erasmusmc/HteSimulationRCT).
+
 *Patient-level prediction*
 
 > Contributed to the development of the R-package *PatientLevelPrediction*, part of the
@@ -124,7 +129,7 @@ Internship \hfill 6-7/2016
    and AI healthcare applications
    ([SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia) project).
    IHI Innovative Health Initiative project, 2024-2029, Participation January
-   2025 --- present.
+   2025 --- April 2025.
 
 2. European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services
    ([smartHealth](https://smarthealth-edih.eu/en/homepag/) project). Digital Europe Programme & ESPA 2021-2027. Participated
@@ -252,3 +257,4 @@ Lampros Dermentzoglou George Tortopidis, Pantelis Natsiavas
 OMOP Common Data Mode. Grigoris Papapostolou, Achilleas Chytas, **Alexandros Rekkas**, Maria Bigaki, Demetrios Zeimpekis,
 Lampros Dermentzoglou, George Tortopidis, Pantelis Natsiavas. 34th Medical Informatics Europe Conference
 [[link](https://convin.gr/assets/files/misc/MIE2024_PROGRAMME_fin.pdf)].
+
