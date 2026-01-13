@@ -4,3 +4,5 @@ cv_greek.pdf
 _environment
 /.quarto/
 *.pdf
+
+**/*.quarto_ipynb
